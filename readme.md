@@ -44,5 +44,11 @@ For frontend
     npm install
     npm start
 
+    Following routes are made in frontend :
+    
+    /
 
+    /login
+
+    /product/:id
 
