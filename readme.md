@@ -3,7 +3,9 @@
 A professional B2B data catalog application .
 
 ## For Login  test user is , it is defined backend/app.js in sqlite ,
+
  -- username is : "business_user"
+
  -- password is : "password"
 
 ## Features
