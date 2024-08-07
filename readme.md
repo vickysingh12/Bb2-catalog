@@ -21,7 +21,7 @@ A professional B2B data catalog application .
 ### 1. Clone the Repository  
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/vickysingh12/Bb2-catalog.git
 
 For backend
 
