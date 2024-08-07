@@ -2,6 +2,10 @@
 
 A professional B2B data catalog application .
 
+## For Login  test user is , it is defined backend/app.js in sqlite ,
+ -- username is : "business_user"
+ -- password is : "password"
+
 ## Features
 
 - **User Authentication**: Secure login for business users.
@@ -15,6 +19,9 @@ A professional B2B data catalog application .
 - **Backend**: Node.js with Express
 - **Database**: SQLite
 - **Authentication**: JWT (JSON Web Token)
+
+
+
 
 ## Project Setup
 
