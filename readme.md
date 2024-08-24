@@ -1,2 +1,2 @@
-local branch 1
-local branch 3 change local
+local branch 1 remote 2
+local branch 3 change
