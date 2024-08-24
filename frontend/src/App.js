@@ -6,6 +6,8 @@ import ProductDetail from './pages/ProductDetail';
 import PrivateRoute from './pages/PrivateRoute';
 
 const App = () => {
+let rr = "copy";
+
   return (
     <Router>
       <Routes>
