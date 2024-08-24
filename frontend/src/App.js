@@ -6,7 +6,7 @@ import ProductDetail from './pages/ProductDetail';
 import PrivateRoute from './pages/PrivateRoute';
 
 const App = () => {
-let rr = "copy";
+let rr = "copyyy";
 
   return (
     <Router>
