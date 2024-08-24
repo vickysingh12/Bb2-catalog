@@ -8,6 +8,7 @@ import PrivateRoute from './pages/PrivateRoute';
 const App = () => {
 let rr = "copyyyuuu";
 let rr = "copyyyuuu";
+let t = 'uuu';
 
   return (
     <Router>
